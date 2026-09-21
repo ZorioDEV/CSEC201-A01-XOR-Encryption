@@ -1,0 +1,7 @@
+﻿cl : command line  warning D9025: overriding '/sdl' with '/GS-'
+  xor.c
+C:\Users\tjbye\OneDrive\Documents\GitHub\CSEC201-A01-XOR-Encryption\TJB_A01\xor.c(28,9): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\tjbye\OneDrive\Documents\GitHub\CSEC201-A01-XOR-Encryption\TJB_A01\xor.c(31,9): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\tjbye\OneDrive\Documents\GitHub\CSEC201-A01-XOR-Encryption\TJB_A01\xor.c(50,9): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\tjbye\OneDrive\Documents\GitHub\CSEC201-A01-XOR-Encryption\TJB_A01\xor.c(52,9): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  TJB_A01.vcxproj -> C:\Users\tjbye\OneDrive\Documents\GitHub\CSEC201-A01-XOR-Encryption\TJB_A01\Debug\TJB_A01.exe
